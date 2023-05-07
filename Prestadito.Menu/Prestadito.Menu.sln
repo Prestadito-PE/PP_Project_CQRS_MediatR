@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prestadito.Menu.API", "Prestadito.Menu.API\Prestadito.Menu.API.csproj", "{2501E114-FC21-4AA7-ACC8-5A987AA4F0BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prestadito.Menu.Api.UnitTests", "Prestadito.Menu.Api.UnitTests\Prestadito.Menu.Api.UnitTests.csproj", "{065A3E64-E13D-4579-A829-54A10F42CCFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2501E114-FC21-4AA7-ACC8-5A987AA4F0BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2501E114-FC21-4AA7-ACC8-5A987AA4F0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2501E114-FC21-4AA7-ACC8-5A987AA4F0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2501E114-FC21-4AA7-ACC8-5A987AA4F0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{065A3E64-E13D-4579-A829-54A10F42CCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065A3E64-E13D-4579-A829-54A10F42CCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065A3E64-E13D-4579-A829-54A10F42CCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065A3E64-E13D-4579-A829-54A10F42CCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C529F8A-0329-474A-B3D7-F7490C611BD5}
+	EndGlobalSection
+EndGlobal
